@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #dddfeb;
+  background: #0a6bc5;
 }
 .container {
   position: relative;
@@ -191,7 +191,7 @@ select {
   text-align: center;
 }
 .score .score-text {
-  color: #a2aace;
+  color: #0a6bc5;
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 120px;
