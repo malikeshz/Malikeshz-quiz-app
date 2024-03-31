@@ -29,12 +29,12 @@ body {
 .heading1 {
   text-align: center;
   /* font-size: 40px; */
-  color: #0a6bc5;
+  color: #0c80ef;
 }
 .heading {
   text-align: center;
   font-size: 40px;
-  color: #0a6bc5;
+  color: #0c80ef;
   margin-bottom: 50px;
 }
 label {
@@ -112,7 +112,7 @@ select {
   font-size: 18px;
 }
 .question-wrapper .question {
-  color: #3b4e61;
+  color: #fff;
   font-size: 20px;
   font-weight: 500;
   margin-bottom: 20px;
@@ -197,7 +197,7 @@ select {
   text-align: center;
 }
 .score .score-text {
-  color: #0a6bc5;
+  color: #0c80ef;
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 120px;
